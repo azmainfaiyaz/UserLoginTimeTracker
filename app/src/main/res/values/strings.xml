@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">User Login Time Tracker</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="register">Register</string>
+    <string name="existing_user_go_to_sign_in_page">Existing user! Go to Sign in page</string>
+    <string name="sign_in">Sign in</string>
+    <string name="showlogtime">Show LastLog Time </string>
+</resources>
